@@ -114,8 +114,14 @@ body {background-color: #546978;}
 }
 .first{
   background-color: #9a6c63;
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px;
 }
 
 .second{
   background-color: #b4840d;
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px;
 }
